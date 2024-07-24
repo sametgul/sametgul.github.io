@@ -2,8 +2,11 @@
 layout: page
 # The Archives of posts.
 ---
-
 {% include lang.html %}
+
+<div class="intro-section">
+  <p><i>Discover posts organized chronologically.</i></p>
+</div>
 
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
