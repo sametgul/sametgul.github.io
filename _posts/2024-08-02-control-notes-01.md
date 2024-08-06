@@ -81,6 +81,7 @@ plt.show()
 ### 4. Bode Plot
 
 A Bode plot represents the frequency response of a system and consists of two plots:
+
 - The magnitude plot, which shows $ \vert H(j\omega) \vert $ versus $ \omega $ (frequency).
 - The phase plot, which shows $ \arg(H(j\omega)) $ versus $ \omega $.
 
@@ -99,6 +100,7 @@ A Proportional-Integral-Derivative (PID) controller is used to improve the respo
 $$ C(s) = K_p + \frac{K_i}{s} + K_d s $$
 
 Where:
+
 - $ K_p $ is the proportional gain.
 - $ K_i $ is the integral gain.
 - $ K_d $ is the derivative gain.
