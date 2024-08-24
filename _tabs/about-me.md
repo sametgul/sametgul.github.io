@@ -3,15 +3,15 @@ icon: fas fa-user
 order: 1
 ---
 
-# Personal Profile
+# **👤 PERSONAL PROFILE**
 
-Hello! I'm a doctoral researcher in Computer Engineering with a background in Electrical-Electronics Engineering. Over the past five years, my research has focused on designing model-based controllers for nonlinear electromechanical systems, particularly in robotics and nonlinear control. With a total of eight years of experience in programming, research, and design, I have worked on a diverse range of projects.
+Hello! I'm a doctoral researcher in Computer Engineering with a strong background in Electrical-Electronics Engineering. My research over the past five years has focused on designing model-based controllers for nonlinear electromechanical systems, with a special emphasis on robotics and nonlinear control. I bring over eight years of experience in programming, research, and design, having worked on a diverse range of innovative projects.
 
-I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and MATLAB/Simulink, with a strong interest in Machine Learning and Embedded Systems. I am currently seeking opportunities to apply my skills in research or industry roles involving cutting-edge projects and professional growth.
+I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and MATLAB/Simulink. My interests include Machine Learning and Embedded Systems. I am actively seeking opportunities to apply my skills in dynamic research or industry roles that involve cutting-edge projects and offer professional growth.
 
 ---
 
-## Education
+## **🎓 EDUCATION**
 
 ### Ph.D. in Computer Engineering  
 
@@ -37,43 +37,48 @@ I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Struct
 
 ---
 
-## Research Experience
+## **🔬 RESEARCH EXPERIENCE**
 
 ### Research Assistant, Department of Computer Engineering  
 
 **Gebze Technical University**, Kocaeli, Turkey  
 *September 2018 - Present*  
 
-- Assisted Professor Erkan Zergeroglu, conducting primary and secondary source research.
-- Studied and published articles on:
+- Supported Professor Erkan Zergeroglu with primary and secondary source research.
+- Published research on:
   - Model-based control of nonlinear electromechanical systems
-  - Partial state and output feedback controller designs
-  - Adaptive, learning, and robust uncertainty compensators
-- Constructed a 3 DOF planar robotic manipulator from scratch and designed the necessary software and hardware.
-- **Technical Skills:** C/C++, Python, MATLAB/Simulink, STM32, ESP32 S3, FreeCAD, KiCAD, Git, LaTeX
-- **Soft Skills:** Academic paper writing, Presentation skills, Time management.
+  - Design of partial state and output feedback controllers
+  - Development of adaptive, learning, and robust uncertainty compensators
+- Designed and built a 3 DOF planar robotic manipulator from scratch, including both software and hardware components.
+
+**Technical Skills:** C/C++, Python (OpenCV, TensorFlow, SymPy), MATLAB/Simulink, STM32, ESP32 S3, FreeCAD, KiCAD, Git, LaTeX
+
+**Soft Skills:** Academic paper writing, Presentation skills, Time management
 
 ---
 
-## Research Projects
+## **📚 RESEARCH PROJECTS**
 
 ### Smartphone-Integrated Ultrasonic Inspection Device Design  
 
 **Sonatest Teknoloji Ltd. Co.**, Kayseri, Turkey  
-*July 2016 - June 2017*  
+*July 2016 - June 2017*
 
-- Proposed the project and secured a $50,000 grant from the Scientific and Technological Research Council of Turkey (TUBITAK).
-- Developed a budget-friendly electronic device that integrates with smartphones to utilize their advanced features (e.g., computational power, user interface, data sharing) for industrial ultrasonic nondestructive testing.
-- Conducted research on ultrasonic nondestructive testing theory and device development.
-- Created the software for the embedded system and smartphone user interface.
-- Established the company, hired qualified employees, led the project, and successfully completed it.
-- **Position:** Project Manager, Researcher, and Developer
-- **Technical Skills:** Embedded-System Programming, Verilog HDL, Android Application Development
-- **Soft Skills:** Report Writing, Presentation Skills, Time Management, Teamwork
+- Secured a $50,000 grant from the Scientific and Technological Research Council of Turkey (TUBITAK) for the project.
+- Designed and developed a cost-effective device that integrates with smartphones, leveraging their advanced features (e.g., computational power, user interface, data sharing) for industrial ultrasonic nondestructive testing.
+- Conducted thorough research on ultrasonic nondestructive testing and device development.
+- Developed the software for the embedded system and the smartphone application.
+- Founded and managed the company, assembled a skilled team, and successfully completed the project.
+
+**Position:** Project Manager, Researcher, Developer
+
+**Technical Skills:** Embedded Systems Programming, Verilog HDL, Android Application Development
+
+**Soft Skills:** Report Writing, Presentation, Time Management, Team Leadership
 
 ---
 
-## Publications
+## **📝 PUBLICATIONS**
 
 ### Journal Articles
 
@@ -87,7 +92,7 @@ I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Struct
 
 ---
 
-## Teaching Experience
+## **🎓 TEACHING EXPERIENCE**
 
 ### Teaching Assistant in the Department of Computer Engineering  
 
@@ -115,21 +120,24 @@ I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Struct
 
 ---
 
-## Skills
+## **💻 SKILLS**
 
 ### **Programming Languages and Tools**
 
-- **C/C++:** Advanced proficiency, experienced in developing and optimizing software for embedded systems and control applications.
-- **Python:** Proficient in data analysis, machine learning, and automation scripting.
+- **C/C++:** Advanced proficiency in developing and optimizing software for embedded systems and control applications.
+- **Python:** Proficient in symbolic computation, control algorithms using ROS, OpenCV, data analysis, machine learning, and automation scripting.
+- **Java:** Skilled in software development for various applications.
 - **MATLAB/Simulink:** Extensive experience in simulation, modeling, and control system design.
-- **Verilog HDL:** Skilled in digital logic design and FPGA development.
+- **Verilog HDL:** Experienced in digital logic design and FPGA development.
 
 ### **Software and Technologies**
 
-- **Version Control:** Git (experienced in version control workflows and collaboration)
-- **Operating Systems:** Linux (proficient in system programming and command-line operations)
-- **Design and Simulation:** Simulink, KiCAD, FreeCAD (for control system design, circuit design, and 3D modeling)
-- **Document Preparation:** LaTeX (for technical documentation and academic papers)
+- **Embedded Systems Programming:** Experienced in designing and implementing embedded systems.
+- **Android Application Development:** Skilled in developing and deploying Android applications.
+- **Version Control:** Proficient with Git for version control and collaborative development.
+- **Operating Systems:** Proficient in Linux for system programming and command-line operations.
+- **Design and Simulation Tools:** Competent in Simulink, KiCAD, and FreeCAD for control system design, circuit design, and 3D modeling.
+- **Document Preparation:** Experienced with LaTeX for technical documentation and academic papers.
 
 ### **Soft Skills**
 
@@ -138,6 +146,7 @@ I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Struct
 - **Teamwork:** Experienced in collaborating with interdisciplinary teams and leading project efforts.
 - **Time Management:** Adept at balancing multiple projects and meeting deadlines efficiently.
 - **Adaptability:** Capable of quickly learning and applying new technologies and methodologies.
+- **Leadership:** Skilled in leading projects and guiding team members to achieve project goals.
 
 ### **Languages**
 
@@ -145,7 +154,7 @@ I am proficient in C/C++, Python, Object-Oriented Programming (OOP), Data Struct
 
 ---
 
-## Contact Information
+## **📞 CONTACT INFORMATION**
 
 - **Phone:** +90 506 161 33 83
 - **Email:** [asam.gul@gmail.com](mailto:asam.gul@gmail.com)
