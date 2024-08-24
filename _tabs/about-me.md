@@ -57,7 +57,7 @@ I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and
 
 ---
 
-## **📚 RESEARCH PROJECTS**
+## **🔍 RESEARCH PROJECTS**
 
 ### Smartphone-Integrated Ultrasonic Inspection Device Design  
 
@@ -132,12 +132,10 @@ I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and
 
 ### **Software and Technologies**
 
-- **Embedded Systems Programming:** Experienced in designing and implementing embedded systems.
-- **Android Application Development:** Skilled in developing and deploying Android applications.
-- **Version Control:** Proficient with Git for version control and collaborative development.
-- **Operating Systems:** Proficient in Linux for system programming and command-line operations.
-- **Design and Simulation Tools:** Competent in Simulink, KiCAD, and FreeCAD for control system design, circuit design, and 3D modeling.
-- **Document Preparation:** Experienced with LaTeX for technical documentation and academic papers.
+- **Version Control:** Proficient with **Git** for version control and collaborative development.
+- **Operating Systems:** Proficient in **Linux** for system programming and command-line operations.
+- **Design and Simulation Tools:** Competent in **Simulink**, **KiCAD**, and **FreeCAD** for control system design, circuit design, and 3D modeling.
+- **Document Preparation:** Experienced with **LaTeX** for technical documentation and academic papers.
 
 ### **Soft Skills**
 
