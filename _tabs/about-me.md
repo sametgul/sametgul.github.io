@@ -154,7 +154,6 @@ I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and
 
 ## **📞 CONTACT INFORMATION**
 
-- **Phone:** +90 506 161 33 83
 - **Email:** [asam.gul@gmail.com](mailto:asam.gul@gmail.com)
 - [LinkedIn](https://linkedin.com/in/gul-samet/)
 - [Github](https://github.com/sametgul)
