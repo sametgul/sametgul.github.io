@@ -87,8 +87,8 @@ I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and
 
 ### Conference Proceedings
 
-- **Gul, Samet** & Zergeroglu, Erkan. (2023). [Kinematik Fazlalıklı Robot Manipülatörlerin Görev Alanı Kısıt Kontrolü](https://tok2023.itu.edu.tr/bildiriler/bildiri-kitabi). *(TOK'2023) 24. Otomatik Kontrol Ulusal Toplantısı*, pp. 13-18. Istanbul, Turkey.
-- **Gul, Samet** & Ozdemir, Ahmet Turan. (2017). [Smartphone Controlled Ultrasonic Nondestructive Testing System Design](https://www.researchgate.net/profile/Samet-Gul/publication/322492444_Smartphone_controlled_ultrasonic_nondestructive_testing_system_design/links/5b732f6645851546c9032f22/Smartphone-controlled-ultrasonic-nondestructive-testing-system-design.pdf). *(ICENTE’17) International Conference on Engineering Technologies*, pp. 335-338. Konya, Turkey.
+- **Gul, Samet** & Zergeroglu, Erkan. (2023). [Kinematik Fazlalıklı Robot Manipülatörlerin Görev Alanı Kısıt Kontrolü](https://www.researchgate.net/publication/378144158_Kinematik_Fazlalikli_Robot_Manipulatorlerin_Gorev_Alani_Kisit_Kontrolu). *24. Otomatik Kontrol Ulusal Toplantısı (TOK'2023)*, pp. 13-18. Istanbul, Turkey.
+- **Gul, Samet** & Ozdemir, Ahmet Turan. (2017). [Smartphone Controlled Ultrasonic Nondestructive Testing System Design](https://www.researchgate.net/profile/Samet-Gul/publication/322492444_Smartphone_controlled_ultrasonic_nondestructive_testing_system_design/links/5b732f6645851546c9032f22/Smartphone-controlled-ultrasonic-nondestructive-testing-system-design.pdf). *International Conference on Engineering Technologies (ICENTE’17)*, pp. 335-338. Konya, Turkey.
 
 ---
 
