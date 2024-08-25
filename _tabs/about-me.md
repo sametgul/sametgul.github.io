@@ -133,7 +133,7 @@ I excel in C/C++, Python, Object-Oriented Programming (OOP), Data Structures and
 ### **Software and Technologies**
 
 - **Version Control:** Proficient with **Git** for version control and collaborative development.
-- **Operating Systems:** Proficient in **Linux** for system programming and command-line operations.
+- **Operating Systems:** Proficient in **Linux** for software and hardware project development, command-line operations, and scripting.
 - **Design and Simulation Tools:** Competent in **Simulink**, **KiCAD**, and **FreeCAD** for control system design, circuit design, and 3D modeling.
 - **Document Preparation:** Experienced with **LaTeX** for technical documentation and academic papers.
 
